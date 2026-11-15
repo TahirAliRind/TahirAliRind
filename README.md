@@ -53,7 +53,7 @@
 ### <img src="https://api.iconify.design/fa6-solid/paper-plane.svg?color=%2338bdf8" width="22" /> Connect With Me
 
 - <img src="https://api.iconify.design/fa6-solid/globe.svg?color=%23f97316" width="16" /> &nbsp;**Portfolio:** [tahiralifuture.netlify.app](https://tahiralifuture.netlify.app/)
-- <img src="https://api.iconify.design/fa6-brands/linkedin.svg?color=%230a66c2" width="16" /> &nbsp;**LinkedIn:** [Tahir Ali Rind (7k+ Followers)](https://linkedin.com/in/tahiralirind)
+- <img src="https://api.iconify.design/fa6-brands/linkedin.svg?color=%230a66c2" width="16" /> &nbsp;**LinkedIn:** [Tahir Ali Rind (7k+ Followers)](https://linkedin.com/in/tahir-ali-87b711383/)
 - <img src="https://api.iconify.design/fa6-brands/github.svg?color=%23a855f7" width="16" /> &nbsp;**Primary GitHub:** [TahirAliRind](https://github.com/TahirAliRind)
 - <img src="https://api.iconify.design/fa6-brands/github-alt.svg?color=%2338bdf8" width="16" /> &nbsp;**Secondary GitHub:** [Tahir-Baloch-1](https://github.com/Tahir-Baloch-1)
 
