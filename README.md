@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
   <!-- Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:7c3aed,100:f97316&height=200&section=header&text=Tahir%20Ali%20Rind&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=62&descSize=16" width="100%" />
 
